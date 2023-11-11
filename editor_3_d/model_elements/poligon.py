@@ -1,4 +1,4 @@
-from Editor3D.model_elements.point3D import Point3D
+from editor_3_d.model_elements.point3D import Point3D
 
 
 class Poligon:

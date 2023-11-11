@@ -1,6 +1,6 @@
-from Editor3D.model_elements.camera import Camera
-from Editor3D.model_elements.flash import Flash
-from Editor3D.model_elements.poligonal_model import PoligonalModel
+from editor_3_d.model_elements.camera import Camera
+from editor_3_d.model_elements.flash import Flash
+from editor_3_d.model_elements.poligonal_model import PoligonalModel
 
 
 class Scene:

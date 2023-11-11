@@ -1,6 +1,6 @@
-from Editor3D.model_elements.point3D import Point3D
-from Editor3D.model_elements.poligon import Poligon
-from Editor3D.model_elements.texture import Texture
+from editor_3_d.model_elements.point3D import Point3D
+from editor_3_d.model_elements.poligon import Poligon
+from editor_3_d.model_elements.texture import Texture
 
 
 class PoligonalModel:
